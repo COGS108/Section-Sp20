@@ -18,7 +18,7 @@ Thanks to Sam Lau for creating/sourcing many of these examples and demos.
 | 08   | A6                                         | [PDF][s08] |                             | [Donkey Weights][e08a], [Suspicions][e08b]              |
 | 09   | CAPEs, Life Advice, Final Projects         | [PDF][s09] |                             |                                                         | -->
 
-[s01]: https://github.com/COGS108/Section-Sp20/Will/disc01/disc01.pdf
+[s01]: https://github.com/COGS108/Section-Sp20/blob/master/Will/disc01/disc01.pdf
 [d01]: http://datahub.ucsd.edu/hub/user-redirect/git-sync?repo=https://github.com/SamLau95/cogs108disc-wi20&subPath=disc01/disc01.ipynb
 [n01]: https://nbviewer.jupyter.org/github/SamLau95/cogs108disc-wi20/blob/master/disc01/disc01.ipynb
 [e01a]: http://datahub.ucsd.edu/hub/user-redirect/git-sync?repo=https://github.com/SamLau95/python-bootcamp-2019&subPath=lab01/
