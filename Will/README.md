@@ -10,7 +10,7 @@ Thanks to Sam Lau for creating/sourcing many of these examples and demos.
 | ---- | ------------------------------------------ | ---------- | --------------------------- | ------------------------------------------------------- |
 | 01   | Introductions, Oakland License Plates Demo | [PDF][s01] | [DataHub][d01], [html][n01] | [Python Practice][e01a], [Python Tutor][e01b]           |
  | 02   | Assignment 1                               | [PDF][s02] |                             | [Data Types, NumPy, pandas Practice][e02a]              |
-| 03   | Project Proposal Feedback                  | [PDF][s03] | [DataHub][d03], [html][n03] | [Chapter 1 of PTDS][e03a]                               |
+| 03   | Project Proposal Feedback                  | [PDF][s03] | See disc03.ipyn. To come: [DataHub][d03], [html][n03] | [Chapter 1 of PTDS][e03a]                               |
 <!--| 04   | pandas primer, A2                          | [PDF][s04] |                             | [Chapter 3 of PTDS][e04a], [pandas tutorial][e04b]      |
 | 05   | State, slicing, A3                         | [PDF][s05] | [DataHub][d05]              | [Sam's pandas slides][e05a], [Sam's pandas video][e05b] |
 | 06   | A3 FAQ, Plotting, A4                       | [PDF][s07] | [DataHub][d06]              | [Chapter 6 of PTDS][e06a]                               |
