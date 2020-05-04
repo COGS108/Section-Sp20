@@ -33,7 +33,7 @@ Thanks to Sam Lau for creating/sourcing many of these examples and demos.
 [e04a]: https://www.textbook.ds100.org/ch/03/pandas_intro.html
 [e04b]: https://pandas.pydata.org/pandas-docs/stable/getting_started/10min.html
 [s05]: https://github.com/COGS108/Section-Sp20/blob/master/Will/disc05/disc05.pdf
-[d05]: https://datahub.ucsd.edu/hub/user-redirect/git-sync?repo=https://github.com/COGS108/Section-Sp20&subPath=disc05/disc05.ipynb
+[d05]: https://datahub.ucsd.edu/hub/user-redirect/git-sync?repo=https://github.com/COGS108/Section-Sp20
 [e05a]: http://bit.ly/sam-pandas-01
 [e05b]: https://www.youtube.com/watch?v=7ns-k29aMgE&feature=youtu.be
 [s06]: https://github.com/COGS108/Section-Sp20/blob/master/Will/disc06/disc06.pdf
