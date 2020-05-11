@@ -6,11 +6,14 @@ datahub links in the table below (requires UCSD email).
 
 Thanks to Sam Lau for creating/sourcing many of these examples and demos.
 
+All demos can be found by navigating this repo in [DataHub][d05] 
+
+
 | Disc | Description                                | Slides     | Demo                        | Extras                                                  |
 | ---- | ------------------------------------------ | ---------- | --------------------------- | ------------------------------------------------------- |
-| 01   | Introductions, Oakland License Plates Demo | [PDF][s01] | [DataHub][d01], [html][n01] | [Python Practice][e01a], [Python Tutor][e01b]           |
+| 01   | Introductions, Oakland License Plates Demo | [PDF][s01] | [html][n01] | [Python Practice][e01a], [Python Tutor][e01b]           |
  | 02   | Assignment 1                               | [PDF][s02] |                             | [Data Types, NumPy, pandas Practice][e02a]              |
-| 03   | Project Proposal Feedback                  | [PDF][s03] | See disc03.ipyn. To come: [DataHub][d03], [html][n03] | [Chapter 1 of PTDS][e03a]                               |
+| 03   | Project Proposal Feedback                  | [PDF][s03] | See disc03.ipyn. [html][n03] | [Chapter 1 of PTDS][e03a]                               |
 | 04   | pandas primer, A2                          | [PDF][s04] |                             | [Chapter 3 of PTDS][e04a], [pandas tutorial][e04b]      |
 | 05   | State, slicing, A3                         | [PDF][s05] | [DataHub][d05]              | [Sam's pandas slides][e05a]                                       |
 | 06   | A3 FAQ, Plotting, A4                       | [PDF][s07] | [DataHub][d06]              | [Chapter 6 of PTDS][e06a]                               |
@@ -33,7 +36,7 @@ Thanks to Sam Lau for creating/sourcing many of these examples and demos.
 [e04a]: https://www.textbook.ds100.org/ch/03/pandas_intro.html
 [e04b]: https://pandas.pydata.org/pandas-docs/stable/getting_started/10min.html
 [s05]: https://github.com/COGS108/Section-Sp20/blob/master/Will/disc05/disc05.pdf
-[d05]: https://datahub.ucsd.edu/hub/user-redirect/git-sync?repo=https://github.com/COGS108/Section-Sp20&subPath=disc05/disc05.ipynb
+[d05]: https://datahub.ucsd.edu/hub/user-redirect/git-sync?repo=https://github.com/COGS108/Section-Sp20
 [e05a]: http://bit.ly/sam-pandas-01
 [e05b]: https://www.youtube.com/watch?v=7ns-k29aMgE&feature=youtu.be
 [s06]: https://github.com/COGS108/Section-Sp20/blob/master/Will/disc06/disc06.pdf
