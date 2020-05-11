@@ -13,8 +13,8 @@ Thanks to Sam Lau for creating/sourcing many of these examples and demos.
 | 03   | Project Proposal Feedback                  | [PDF][s03] | See disc03.ipyn. To come: [DataHub][d03], [html][n03] | [Chapter 1 of PTDS][e03a]                               |
 | 04   | pandas primer, A2                          | [PDF][s04] |                             | [Chapter 3 of PTDS][e04a], [pandas tutorial][e04b]      |
 | 05   | State, slicing, A3                         | [PDF][s05] | [DataHub][d05]              | [Sam's pandas slides][e05a]                                       |
-<!--| 06   | A3 FAQ, Plotting, A4                       | [PDF][s07] | [DataHub][d06]              | [Chapter 6 of PTDS][e06a]                               |
-| 07   | Personal webpages with Jupyter, A5         | [PDF][s07] | [DataHub][d07]              | [Chutes and Ladders][e07a]                              |
+| 06   | A3 FAQ, Plotting, A4                       | [PDF][s07] | [DataHub][d06]              | [Chapter 6 of PTDS][e06a]                               |
+<!--| 07   | Personal webpages with Jupyter, A5         | [PDF][s07] | [DataHub][d07]              | [Chutes and Ladders][e07a]                              |
 | 08   | A6                                         | [PDF][s08] |                             | [Donkey Weights][e08a], [Suspicions][e08b]              |
 | 09   | CAPEs, Life Advice, Final Projects         | [PDF][s09] |                             |                                                         | -->
 
@@ -37,7 +37,7 @@ Thanks to Sam Lau for creating/sourcing many of these examples and demos.
 [e05a]: http://bit.ly/sam-pandas-01
 [e05b]: https://www.youtube.com/watch?v=7ns-k29aMgE&feature=youtu.be
 [s06]: https://github.com/COGS108/Section-Sp20/blob/master/Will/disc06/disc06.pdf
-[d06]: http://datahub.ucsd.edu/hub/user-redirect/git-sync?repo=https://github.com/COGS108/cogs108disc-Sp20&subPath=disc06/disc06.ipynb
+[d06]: https://datahub.ucsd.edu/hub/user-redirect/git-sync?repo=https://github.com/COGS108/Section-Sp20&subPath=disc05/disc06.ipynb
 [e06a]: https://www.textbook.ds100.org/ch/06/viz_intro.html
 [s07]: https://github.com/COGS108/Section-Sp20/blob/master/Will/disc07/disc07.pdf
 [d07]: http://datahub.ucsd.edu/hub/user-redirect/git-sync?repo=https://github.com/COGS108/cogs108disc-Sp20&subPath=disc07/jake_demo.ipynb
