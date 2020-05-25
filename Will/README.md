@@ -18,8 +18,8 @@ All demos can be found by navigating this repo in [DataHub][d05]
 | 05   | State, slicing, A3                         | [PDF][s05] | [DataHub][d05]              | [Sam's pandas slides][e05a]                                       |
 | 06   | A3 FAQ, Plotting, A4                       | [PDF][s07] | [DataHub][d06]              | [Chapter 6 of PTDS][e06a]                               |
 | 07   | Personal webpages with Jupyter, A5         | [PDF][s07] | [DataHub][d07]              | [Chutes and Ladders][e07a]                              |
-<!-- | 08   | A6                                         | [PDF][s08] |                             | [Donkey Weights][e08a], [Suspicions][e08b]              |
-| 09   | CAPEs, Life Advice, Final Projects         | [PDF][s09] |                             |                                                         | -->
+| 08   | A6                                         | [PDF][s08] |                             | [Donkey Weights][e08a], [Suspicions][e08b]              |
+<!-- | 09   | CAPEs, Life Advice, Final Projects         | [PDF][s09] |                             |                                                         | -->
 
 [s01]: https://github.com/COGS108/Section-Sp20/blob/master/Will/disc01/disc01.pdf
 [d01]: http://datahub.ucsd.edu/hub/user-redirect/git-sync?repo=https://github.com/COGS108/cogs108disc-Sp20&subPath=disc01/disc01.ipynb
